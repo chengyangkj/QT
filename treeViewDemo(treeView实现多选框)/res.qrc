@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/treeIcon">
+        <file>res_treeItemIcon/channel.png</file>
+        <file>res_treeItemIcon/dataItem.png</file>
+        <file>res_treeItemIcon/folder.png</file>
+        <file>res_treeItemIcon/folder_original.png</file>
+        <file>res_treeItemIcon/folder-ansys.png</file>
+        <file>res_treeItemIcon/group.png</file>
+        <file>res_treeItemIcon/Project.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,13 @@
+INPUT(
+./release/main.o
+./release/CCtrlMainWindow.o
+./release/CCtrlProgressLoad.o
+./release/CCtrlDisplayDialog.o
+./release/CCtrlDashBoard.o
+./release/CCtrlProgressWater.o
+./release/moc_CCtrlMainWindow.o
+./release/moc_CCtrlProgressLoad.o
+./release/moc_CCtrlDisplayDialog.o
+./release/moc_CCtrlDashBoard.o
+./release/moc_CCtrlProgressWater.o
+);

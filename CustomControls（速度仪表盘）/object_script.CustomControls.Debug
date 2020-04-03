@@ -1,0 +1,13 @@
+INPUT(
+./debug/main.o
+./debug/CCtrlMainWindow.o
+./debug/CCtrlProgressLoad.o
+./debug/CCtrlDisplayDialog.o
+./debug/CCtrlDashBoard.o
+./debug/CCtrlProgressWater.o
+./debug/moc_CCtrlMainWindow.o
+./debug/moc_CCtrlProgressLoad.o
+./debug/moc_CCtrlDisplayDialog.o
+./debug/moc_CCtrlDashBoard.o
+./debug/moc_CCtrlProgressWater.o
+);

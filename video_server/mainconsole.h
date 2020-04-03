@@ -12,7 +12,6 @@ public:
 signals:
 
 public slots:
-
 };
 
 #endif // MAINCONSOLE_H

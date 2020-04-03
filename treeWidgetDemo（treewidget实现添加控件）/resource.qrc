@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>resources/images/display.png</file>
+        <file>resources/images/false.png</file>
+        <file>resources/images/grid.png</file>
+        <file>resources/images/icon.png</file>
+        <file>resources/images/line.png</file>
+        <file>resources/images/offline.png</file>
+        <file>resources/images/ok.png</file>
+        <file>resources/images/online.png</file>
+        <file>resources/images/power.png</file>
+        <file>resources/images/power-v.png</file>
+        <file>resources/images/robot.png</file>
+        <file>resources/images/robot2.png</file>
+        <file>resources/images/setting.png</file>
+        <file>resources/images/setting2.png</file>
+        <file>resources/images/speed.png</file>
+    </qresource>
+</RCC>

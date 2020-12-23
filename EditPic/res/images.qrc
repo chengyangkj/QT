@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="debug_screenbg">debug_screenbg.jpg</file>
+    </qresource>
+</RCC>

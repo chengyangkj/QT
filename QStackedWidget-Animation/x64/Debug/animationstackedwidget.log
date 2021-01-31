@@ -1,0 +1,6 @@
+﻿  Generate moc_predefs.h
+  Uic'ing mainwindow.ui...
+  mainwindow.cpp
+mainwindow.cpp(69): warning C4100: “event”: 未引用的形参
+  animationstackedwidget.vcxproj -> C:\Users\owner\Desktop\QStackedWidget-Animation\debug\animationstackedwidget.exe
+  animationstackedwidget.vcxproj -> debug\animationstackedwidget.pdb (Full PDB)

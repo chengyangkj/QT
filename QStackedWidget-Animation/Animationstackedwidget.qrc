@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>Resourse/appbar.chevron.left.png</file>
+        <file>Resourse/appbar.chevron.right.png</file>
+    </qresource>
+</RCC>

@@ -1,0 +1,31 @@
+syntax = "proto3";
+
+option optimize_for = LITE_RUNTIME;
+//工作空间名
+package robot_data;
+
+//点数据类型
+message Point {
+    double x = 1;
+    double y = 2;
+    double theta = 3;
+}
+//激光数据类型
+message LaserData {
+    sint32 location = 1;
+    int64 timeStamp = 2;
+    repeated Point scan = 3;
+}
+//路径数据类型
+message RobotPath {
+    sint32 location = 1;
+    int64 timeStamp = 2;
+    repeated Point path = 3;
+}
+//机器人数据
+message RobotData{
+     oneof Item{
+        LaserData laser_data = 1;
+        RobotPath robot_path =2;
+    }
+}
